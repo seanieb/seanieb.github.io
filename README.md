@@ -1,7 +1,7 @@
 ## About
 ### 🇮🇪👨‍💻⛵️🛶🥃🏔
 
-Information & Cyber Security is my thing. I've worked for a bunch of companies 🚀 in San Francisco, CA; Digg 👨‍💻, Dropbox 🔐, Patreon 🔐 and Truework 🔐. And some others in Ireland 🇮🇪 and Canada 🇨🇦.
+Information & Cyber Security is my thing. I've worked for a bunch of companies 🚀 in San Francisco, CA 🇺🇸; Digg 👨‍💻, Dropbox 🔐, Patreon 🔐 and Truework 🔐. And some others in Ireland 🇮🇪 and Canada 🇨🇦.
 
 My last two roles were leading security for startups of about 30-50 folks 👨🏽‍💻👩🏿‍💻👩‍💻 in hyper growth 📈. At this stage building their security program and security hiring is critical, while also securing a service under rapid🏎 development. This is my dream role. I got to work on everything you could imagine! Coding, product development, risk planning, security policies & procedures, software engineering, code review, architecture and design implementation, cloud infrastructure, software development, standards & compliance and more!
 
