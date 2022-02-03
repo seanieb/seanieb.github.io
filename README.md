@@ -1,11 +1,11 @@
 ## About
 ### 🇮🇪👨‍💻⛵️🛶🥃🏔
 
-Computer Security is my thing. Before building my own company I worked for companies 🚀 in San Francisco, CA 🇺🇸; Digg 👨‍💻, Dropbox 🔐, Patreon 🔐 and Truework 🔐. And some others in Ireland 🇮🇪 and Canada 🇨🇦.
+You can call me Sean or Seanie. Computer Security is my thing. I previously worked for in Digg 👨‍💻, Dropbox 🔐, Patreon 🔐 and Truework 🔐 in 🚀California 🇺🇸. And some others in Ireland 🇮🇪& Canada 🇨🇦
 
-My last two roles were leading security for startups of about 30-50 folks 👨🏽‍💻👩🏿‍💻👩‍💻 in hyper growth 📈. At this stage building their security program and security hiring is critical, while also securing a service under rapid🏎 development. This is my dream role. I got to work on everything you could imagine! Coding, product development, risk planning, security policies & procedures, software engineering, code review, architecture and design implementation, cloud infrastructure, software development, standards & compliance and more! All of the cybersecurity stuff. 
+At Patreon & Truework I was the Head of Security. Each had about 30-50 folks 👨🏽‍💻👩🏿‍💻👩‍💻 and where in hyper growth 📈. Building their security program while also securing a service under rapid 🏎 development was lots of fun. Working on everything you could imagine! Coding, product development, hiring, risk planning, cybersecurity policies & procedures, software engineering, code review, architecture and design implementation, cloud infrastructure, software development, industry standards & compliance and more!
 
-I studied computer science at NUI, Galway. Dropped out of a PhD program. Worked as white water Safety Kayaker 🛶 and Raft Guide on the Ottawa River 🇨🇦. Born and raised on farm 🚜  in County Tipperary  🇮🇪 Ireland. When I went to university I took up kayaking, the following year I started coding for fun. These two events have played an important part in my life ever since. At first I just wanted to build a kayaking website, then coding overtook kayaking as my passion.
+Before all of this I was born and raised on farm 🚜 in County Tipperary 🇮🇪 Ireland. I studied computer science at NUI, Galway. Dropped out of a PhD program. Worked as white water Safety Kayaker 🛶 and Raft Guide on the Ottawa River 🇨🇦. When I went to university I took up kayaking, the following year I started coding for fun. These two events have played an important part in my life ever since. At first I just wanted to build a kayaking website, then computer security overtook kayaking as my passion. So here we are!
 
 ## Elsewhere
 - 🧪 [Github](https://github.com/seanieb/)
