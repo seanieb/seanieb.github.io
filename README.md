@@ -9,7 +9,7 @@ Worked for in Digg 👨‍💻, Dropbox 🔐, Patreon 🔐 and Truework 🔐 in 
 - 🧪 [Github](https://github.com/seanieb/)
 - 🦜 [Twitter](https://twitter.com/seanieb)
 - 📄 [Linkedin](https://www.linkedin.com/in/seaniebyrne/)
-- <a rel="me" href="https://infosec.exchange/@seanie">Mastodon</a>
+- 🦣 <a rel="me" href="https://infosec.exchange/@seanie">Mastodon</a>
 
 ## 👨‍💻 🎥
 
