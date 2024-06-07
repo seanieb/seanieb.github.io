@@ -8,7 +8,7 @@ My professional journey has taken me to Digg 👨‍💻, Dropbox 🔐, Patreon 
 ## Projects
 - 🛡️ [AuthDuty](https://authduty.com)
 - 🔐 [EndEngine](https://endengine.com)
-- 🌊 IrishWhiteWater](https://iww.ie)
+- 🌊 [IrishWhiteWater](https://iww.ie)
 
 ## Elsewhere
 - 🧪 [Github](https://github.com/seanieb/)
