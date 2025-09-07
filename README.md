@@ -1,9 +1,10 @@
 ## About
 ### 🇮🇪👨‍💻⛵️🛶🥃🏔
+Sean, often called Seanie, originally from a farm 🚜 in County Tipperary, Ireland 🇮🇪. I have a degree in computer science, and later dropped out of a PhD program to pursue a different path. I worked as a white water Safety Kayaker 🛶 and Raft Guide on the Ottawa River 🇨🇦, where kayaking and coding became my twin passions that have shaped my life ever since.
 
-Sean, often called Seanie, originally from a farm 🚜 in County Tipperary, Ireland 🇮🇪. I started in computer science at NUI Galway. Dropped out of a PhD program. Worked as white water Safety Kayaker 🛶 and Raft Guide on the Ottawa River 🇨🇦. Kayaking and coding became my twin passions during university, shaping my life ever since.
+My professional journey has taken me from Ireland 🇮🇪 and Canada 🇨🇦 to California 🇺🇸, where I've worked at Digg 👨‍💻, Dropbox 🔐, Patreon 🔐, and Truework 🔐. As security lead at both Patreon and Truework, I took on the challenge of building security programs during periods of hyper growth 📈. My work spans cybersecurity, cryptography, software & infrastructure engineering, hiring, risk planning, and compliance.
 
-My professional journey has taken me to Digg 👨‍💻, Dropbox 🔐, Patreon 🔐, and Truework 🔐 in California 🇺🇸, as well as companies in Ireland 🇮🇪 and Canada 🇨🇦. As Head of Security at Patreon and Truework, I took on the challenge of building security programs amidst hyper growth 📈. My work spans cybersecurity, cryptography, software & infrastucture engineering, hiring, risk planning, compliance and more. Each oft these companies had about 30-50 folks 👨🏽‍💻👩🏿‍💻👩‍💻 when I started and where in hyper growth 📈. Since then I've consulted for a number of companies both large and small. 
+Each of these companies had about 30-50 people 👨🏽‍💻👩🏿‍💻👩‍💻 when I started and were experiencing rapid expansion. Since then, I've consulted for a number of companies both large and small, helping them navigate security challenges at various stages of growth.
 
 ## Projects
 - 🛡️ [AuthDuty](https://authduty.com)
